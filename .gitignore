@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Data (never commit patient-like data)
+data/
+!data/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
