@@ -8,7 +8,7 @@ __pycache__/
 .env
 
 # Data (never commit patient-like data)
-data/
+data/*
 !data/.gitkeep
 
 # OS / editor
